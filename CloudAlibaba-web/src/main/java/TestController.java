@@ -29,6 +29,7 @@ public class TestController {
         System.out.println(userName);
         System.out.println(userAge);
         System.out.println(userPass);
+        System.out.println(userPass);
         return userName;
     }
 }
